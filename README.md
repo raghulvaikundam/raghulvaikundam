@@ -28,7 +28,7 @@
 ![BitBucket](https://img.shields.io/badge/-Flutter-1fedea?style=flat&logo=Flutter)
 
 #### StackOverflow Profile Stats
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9584758&theme=dark)](https://stackoverflow.com/users/9584758/raghul-vaikundam)
+[![Raghul Vaikundam StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9584758&theme=dark)](https://stackoverflow.com/users/9584758/raghul-vaikundam)
 
 <!--
 **raghulvaikundam/raghulvaikundam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
