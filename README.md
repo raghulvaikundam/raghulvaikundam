@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:, I am Raghul Vaikundam :boy: </h1>
 
-<p>Welcome to my Profile, I am a Software Engineer at Trimble. Building different mobile products using Native Android(Java/Kotlin), Xamarin Native and Xamarin.Forms.
+<p>Welcome to my Profile, I am a Senior Software Engineer at Trimble. Building different mobile products using Native Android(Java/Kotlin), Xamarin Native and Xamarin.Forms.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=raghulvaikundam" alt="raghulvaikundam" /> </p>
 </p>
 
